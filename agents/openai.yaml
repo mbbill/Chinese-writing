@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文写作"
+  short_description: "Clear, accurate, and restrained Chinese writing"
+  default_prompt: "Use $chinese-writing for clear, accurate, and natural Chinese output."
